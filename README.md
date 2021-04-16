@@ -1,9 +1,10 @@
  Calculadora Ensino Superior
 
- Autor:      Anderson Santos
- Manutenção: Anderson Santos
+  Autor:      Anderson Santos
+  Manutenção: Anderson Santos
 
  Descrição:
+
     Calculadora para uso em disciplinas das Engenharias e afins.
 
  Histórico:
@@ -24,5 +25,6 @@
         - Enviado para o GitHub
 
  Desenvolvido em:
+ 
     Visual Studio Code - v1.55.0 x64
    
