@@ -27,4 +27,5 @@
  Desenvolvido em:
 
     Visual Studio Code - v1.55.0 x64
+    Dotnet - 5.0.202
    
